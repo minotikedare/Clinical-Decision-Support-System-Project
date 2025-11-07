@@ -1,3 +1,6 @@
+# Group 3 Clinical Decision Support System (CDSS) Project
+**Indiana University, Indianapolis – MS Health Informatics Program**
+
 # A Guideline-Based CDSS for Classifying Asthma Severity and Initial Therapy Recommendation
 ## Introduction:
 This script implements a Clinical Decision Support System (CDSS) designed to provide severity grading and initial therapy 
